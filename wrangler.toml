@@ -1,0 +1,8 @@
+# Cloudflare Pages Configuration
+# This file is intentionally commented out to prevent the Cloudflare build system
+# from auto-detecting a "Worker" environment and running the wrong deploy command.
+#
+# To deploy, use: npm run deploy
+#
+# name = "medical-insurance-calculator"
+# compatibility_date = "2024-08-27"
