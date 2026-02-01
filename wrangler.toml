@@ -1,5 +1,5 @@
 name = "medical-insurance-calculator"
-compatibility_date = "2024-09-23"
+compatibility_date = "22026-02-01"
 
 # This configuration allows 'npx wrangler deploy' to work by 
 # serving the static files from the 'dist' directory.
